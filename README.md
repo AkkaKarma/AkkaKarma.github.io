@@ -1,1 +1,0 @@
-# akkakarma.github.io
